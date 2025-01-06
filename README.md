@@ -1,70 +1,100 @@
 # Pham Dinh Hao
 
-## FRONT END DEVELOPER
+## 🌟 Front-End Developer 🌟
 
-- **Email:** dinhhao1810@gmail.com  
-- **Location:** Binh Tan, TpHCM  
-- **Phone:** +84 329635202
-
-With more than 1 year of experience programming Reactjs and Nextjs, I have equipped myself with good front-end programming skills. I would like to apply for the front-end position that the company is recruiting. Through the professional knowledge I have, along with my experience, I will try to complete the best work at the company.
+**Email:** [dinhhao1810@gmail.com](mailto:dinhhao1810@gmail.com)  
+**Location:** Binh Tan, TpHCM  
+**Phone:** +84 329635202
 
 ---
 
-## Education
-
-- **Ho Chi Minh City University of Technology**  
-  *Outstanding student (2022 - 2024)*  
-  - Consolation prize of Code War 2024 contest  
-  - Third prize of HDBank Hackathon 2024
+With more than **1 year of experience** programming with **ReactJS** and **NextJS**, I have honed my skills in **front-end development** and am eager to contribute to a dynamic team. My goal is to bring my technical expertise and passion for web development to deliver top-notch products for your company.
 
 ---
 
-## Skills
+## 🎓 Education
 
-- **Database:** MySQL, SQL Server  
-- **Back-End Development:** Nodejs (Express), Laravel PHP  
-- **Front-End Development:** HTML, SCSS, Javascript, Typescript, Bootstrap, ReactJs, NextJs  
-- **Source Control:** Git, GitLab, SourceTree  
-- **Language:** B1 English
+### **Ho Chi Minh City University of Technology**  
+*Outstanding Student (2022 - 2024)*  
+- Consolation Prize of **Code War 2024** Contest  
+- **Third Prize** in **HDBank Hackathon 2024**
 
 ---
 
-## Work Experience
+## 💼 Skills
 
-### Blash Mail (Viet Japan Digital Company)  
-*9/2024 - 12/2024*  
-Blash Mail is a web application that helps users send emails in text or HTML format to send important messages to partners, such as invitations or greetings. The application includes organizing and generating HTML for users and managing pending and sent emails, along with managing sending lists and groups for lists.  
+**Database:**  
+- MySQL, SQL Server
+
+**Back-End Development:**  
+- Node.js (Express), Laravel PHP
+
+**Front-End Development:**  
+- HTML, SCSS, JavaScript, TypeScript, Bootstrap, ReactJS, NextJS
+
+**Source Control:**  
+- Git, GitLab, SourceTree
+
+**Language Proficiency:**  
+- English: B1
+
+---
+
+## 💻 Work Experience
+
+### **Blash Mail**  
+*Viet Japan Digital Company*  
+**Position:** Fullstack Developer  
+**Duration:** 9/2024 - 12/2024  
+
+Blash Mail is a web application that helps users send **emails** (text or HTML format) to convey important messages like invitations and greetings. It also manages **pending** and **sent emails**, **email lists**, and **groups**.
+
 **Responsibilities:**
-- Set up and embed tools to set up components to edit email deliverables and send emails.
-- Manage the subjects you want to send emails to manually or by file.
-- Manage pending and sent emails in the application.
-**Technologies Used:** Reactjs, Nextjs, Tailwindcss, Nodejs, MySQL  
-**Position:** Fullstack
+- Setup and integrate components for editing and sending emails.
+- Manage subjects and contacts to send emails manually or by file.
+- Handle **pending** and **sent** email management.
 
-### Sekeruku (Viet Japan Digital Company)  
-*5/2024 - 8/2024*  
-Sekeruku is a website for telesales where users can manage a large number of call lists, organize caller managers, and service users to control all call information.  
-**Responsibilities:**
-- Design call management API screens and maps for users, callers, and administrators.
-- Design and map API for call history and call reminders for callers and administrators.
-- Manage all groups belonging to users.
-**Technologies Used:** Reactjs, NextJs, Tailwindcss  
-**Position:** Front-End Developer
-
-### Viet Japan Connect (Viet Japan Digital Company)  
-*2/2024 - 4/2024*  
-Viet Japan Connect is a website connecting partners from Vietnam and Japan. The website will update information about Vietnamese and Japanese companies in different industries, helping them connect and do business.  
-**Responsibilities:**
-- Design screens and API maps for articles that need to be connected to companies that require services.
-- Automatically translate into 3 existing languages on the website for forms that need users to complete.
-**Technologies Used:** Reactjs, NextJs, SCSS  
-**Position:** Front-End Intern
+**Technologies Used:**  
+- **ReactJS**, **NextJS**, **TailwindCSS**, **NodeJS**, **MySQL**
 
 ---
 
-## Contact
+### **Sekeruku**  
+*Viet Japan Digital Company*  
+**Position:** Front-End Developer  
+**Duration:** 5/2024 - 8/2024  
 
-Feel free to reach out if you'd like to collaborate or learn more about my work.
+Sekeruku is a **telesales** platform designed to manage large call lists, organize callers, and track all call information for managers.
+
+**Responsibilities:**
+- Design **API screens** for call management, user dashboards, and administrator interfaces.
+- Implement **call history** and **call reminder** features.
+- Manage all **user groups** and their data.
+
+**Technologies Used:**  
+- **ReactJS**, **NextJS**, **TailwindCSS**
+
+---
+
+### **Viet Japan Connect**  
+*Viet Japan Digital Company*  
+**Position:** Front-End Intern  
+**Duration:** 2/2024 - 4/2024  
+
+Viet Japan Connect is a platform connecting partners from **Vietnam** and **Japan**. It provides a space for businesses to share **industry-related** content and establish partnerships.
+
+**Responsibilities:**
+- Design **API screens** for displaying articles and business listings.
+- Implement automatic **multi-language translation** for user forms.
+
+**Technologies Used:**  
+- **ReactJS**, **NextJS**, **SCSS**
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out for collaboration or further discussions. Let's create something amazing together!
 
 - **Email:** [dinhhao1810@gmail.com](mailto:dinhhao1810@gmail.com)  
 - **Phone:** +84 329635202
